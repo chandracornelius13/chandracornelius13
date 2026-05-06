@@ -34,7 +34,8 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50px> </picture> Programming languages
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50px> </picture> 
+<h4>Programming languages</h4>
 
 <br>
 
